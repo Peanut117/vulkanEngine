@@ -1,0 +1,26 @@
+[
+  {
+    "directory": "/Users/nielsbil/Dev/vulkanEngine/build",
+    "command": "cc -IvulkanEngine.p -I. -I.. -I../include -I/opt/homebrew/include -I/opt/homebrew/Cellar/vulkan-loader/1.4.307/../../../opt/vulkan-headers/include -fdiagnostics-color=always -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -MD -MQ vulkanEngine.p/src_main.c.o -MF vulkanEngine.p/src_main.c.o.d -o vulkanEngine.p/src_main.c.o -c ../src/main.c",
+    "file": "../src/main.c",
+    "output": "vulkanEngine.p/src_main.c.o"
+  },
+  {
+    "directory": "/Users/nielsbil/Dev/vulkanEngine/build",
+    "command": "cc -IvulkanEngine.p -I. -I.. -I../include -I/opt/homebrew/include -I/opt/homebrew/Cellar/vulkan-loader/1.4.307/../../../opt/vulkan-headers/include -fdiagnostics-color=always -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -MD -MQ vulkanEngine.p/src_init.c.o -MF vulkanEngine.p/src_init.c.o.d -o vulkanEngine.p/src_init.c.o -c ../src/init.c",
+    "file": "../src/init.c",
+    "output": "vulkanEngine.p/src_init.c.o"
+  },
+  {
+    "directory": "/Users/nielsbil/Dev/vulkanEngine/build",
+    "command": "cc -IvulkanEngine.p -I. -I.. -I../include -I/opt/homebrew/include -I/opt/homebrew/Cellar/vulkan-loader/1.4.307/../../../opt/vulkan-headers/include -fdiagnostics-color=always -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -MD -MQ vulkanEngine.p/src_setup.c.o -MF vulkanEngine.p/src_setup.c.o.d -o vulkanEngine.p/src_setup.c.o -c ../src/setup.c",
+    "file": "../src/setup.c",
+    "output": "vulkanEngine.p/src_setup.c.o"
+  },
+  {
+    "directory": "/Users/nielsbil/Dev/vulkanEngine/build",
+    "command": "cc -IvulkanEngine.p -I. -I.. -I../include -I/opt/homebrew/include -I/opt/homebrew/Cellar/vulkan-loader/1.4.307/../../../opt/vulkan-headers/include -fdiagnostics-color=always -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -MD -MQ vulkanEngine.p/src_run.c.o -MF vulkanEngine.p/src_run.c.o.d -o vulkanEngine.p/src_run.c.o -c ../src/run.c",
+    "file": "../src/run.c",
+    "output": "vulkanEngine.p/src_run.c.o"
+  }
+]
